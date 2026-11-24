@@ -1,0 +1,4 @@
+cryptography>=42
+ztaf-mandate @ https://github.com/Zero-TAF/ztaf-mandate/archive/refs/heads/main.tar.gz
+ztaf-evidence @ https://github.com/Zero-TAF/ztaf-evidence/archive/refs/heads/main.tar.gz
+ztaf-reference-harness @ https://github.com/Zero-TAF/ztaf-reference-harness/archive/refs/heads/main.tar.gz
